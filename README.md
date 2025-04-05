@@ -1,3 +1,4 @@
+[![Build Status](https://bernikov.visualstudio.com/Space%20Game%20-%20web%20-%20Delivery%20plans/_apis/build/status%2FIvanBern.mslearn-tailspin-spacegame-web?branchName=main)](https://bernikov.visualstudio.com/Space%20Game%20-%20web%20-%20Delivery%20plans/_build/latest?definitionId=1&branchName=main)
 
 # Contributing
 
